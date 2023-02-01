@@ -62,6 +62,12 @@ Website created for anyone who is interested about running and would like to see
     - console used to check responsiveness on the website and to identify codes
 1. [Balsamiq:](https://balsamiq.com/)
     - used for wireframes design.
+![Mock-up-Image](Pictures/balasamic.jpg)
+![Mock-up-Image](Pictures/balasamic1.jpg)
+![Mock-up-Image](Pictures/balasamic2.jpg)
+![Mock-up-Image](Pictures/balasamic3.jpg)
+![Mock-up-Image](Pictures/balasamic4.jpg)
+
 
 
 ## Testing
