@@ -109,7 +109,7 @@ footer {
   padding: 1.2em;
   text-align: center;
   width: 100%;
-  position: fixed;
+  /* position: fixed; */
   bottom: 0;
   right: 0;
 }
@@ -125,7 +125,7 @@ footer {
   padding: 20px;
 }
 
-.Paragraph1 { 
+.Paragraph1 {
   padding: 0 250px !important;
 }
 
@@ -145,11 +145,13 @@ footer {
 .video-footer {
   position: static !important;
 }
-.single-video h4{
-  margin:10px 0;
+
+.single-video h4 {
+  margin: 10px 0;
 }
+
 @media (max-width:950px) {
-  .Paragraph1 { 
+  .Paragraph1 {
     padding: 0 30px !important;
   }
 
@@ -167,12 +169,14 @@ footer {
   .single-video-main {
     width: 71%;
     height: auto;
-}
-}
-@media (max-width:500px) {
-  .home-video{
-    width:90vw
   }
+}
+
+@media (max-width:500px) {
+  .home-video {
+    width: 90vw
+  }
+
   .social-icons {
     display: flex;
     text-align: center;
