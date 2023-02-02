@@ -98,8 +98,7 @@ The W3C Markup Validator and W3C CSS Validator Services used to identify errors
     -   #### 
     
  -   ###  Media
- 
-![Mock-up-Image](Pictures/img1.jpg)
+  
 ![Mock-up-Image](Pictures/img2.jpg)
 ![Mock-up-Image](Pictures/img3.jpg)
 ![Mock-up-Image](Pictures/img4.jpg)
