@@ -150,6 +150,11 @@ footer {
   margin: 10px 0;
 }
 
+.sbs {
+  position: fixed;
+  bottom: 0;
+}
+
 @media (max-width:950px) {
   .Paragraph1 {
     padding: 0 30px !important;
